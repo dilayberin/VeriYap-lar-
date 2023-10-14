@@ -1,2 +1,2 @@
 # VeriYapilari
-Veri Yapıları dersinde yapılan çalışmalar
+Bu repo veri Yapıları dersinde yapılan çalışmalar
