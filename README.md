@@ -1,2 +1,2 @@
 # VeriYapilari
-Veri Yapıları dersi çalışmaları
+Veri Yapıları dersinde yapılan çalışmalar
