@@ -1,4 +1,4 @@
-
+package bagliListeler;
 class eleman{
     int veri;
     eleman ileri;
